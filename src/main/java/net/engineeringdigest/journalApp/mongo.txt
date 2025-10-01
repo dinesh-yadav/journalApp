@@ -1,4 +1,0 @@
-user yadavdin_db_user
-password X7JaxFmBeVQy8Sir
-
-mongodb+srv://yadavdin_db_user:X7JaxFmBeVQy8Sir@cluster0.z9tp6xb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
