@@ -1,10 +1,10 @@
-package net.engineeringdigest.journalApp.service;
+package net.org.journalApp.service;
 
 import lombok.extern.slf4j.Slf4j;
-import net.engineeringdigest.journalApp.entity.JournalEntry;
-import net.engineeringdigest.journalApp.entity.User;
-import net.engineeringdigest.journalApp.repository.JournalEntryRepository;
-import net.engineeringdigest.journalApp.repository.UserRepository;
+import net.org.journalApp.entity.JournalEntry;
+import net.org.journalApp.entity.User;
+import net.org.journalApp.repository.JournalEntryRepository;
+import net.org.journalApp.repository.UserRepository;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

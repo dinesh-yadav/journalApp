@@ -1,7 +1,7 @@
-package net.engineeringdigest.journalApp.controller;
+package net.org.journalApp.controller;
 
-import net.engineeringdigest.journalApp.entity.User;
-import net.engineeringdigest.journalApp.service.UserService;
+import net.org.journalApp.entity.User;
+import net.org.journalApp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
